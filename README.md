@@ -1,8 +1,6 @@
-# Future versions of NotEnoughCoins will be put behind a paywall. You can purchase it at https://notenoughcoins.net/ . This is to ensure that the project can continue to be maintained.
-
 # NotEnoughCoins
 
-CoinsClient - https://github.com/Not-Enough-Coins/NotEnoughtCoins
+CoinsClient - https://github.com/Not-Enough-Coins/NotEnoughtCoins/Releases/latest
 
 A SkyBlock Flipping Mod.
 
